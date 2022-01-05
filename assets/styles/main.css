@@ -1,0 +1,168 @@
+*{
+    box-sizing: border-box;
+    margin: none;
+    padding: 0;
+}
+a{  
+    color:inherit;
+    text-decoration: none;
+    text-align: right;
+    align-items: right;
+}
+
+
+body{
+    background-color:black;
+    
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+h2{
+    color: gray;
+    text-align: center;
+}
+
+
+.nav-wrapper{
+    background-color: rgba(36, 3, 36, 0.623);
+}
+
+.carossel-MMO{
+    background-color: rgb(182, 182, 180);
+
+}
+.logo{
+    color:rgb(130, 149, 207);
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    display: block;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.nav-box1{
+    height: 300px;
+    text-align: center;
+    color:white
+    
+    
+}
+
+.duv{
+   
+    padding: auto;
+    font-size: 20px;
+    color: yellow;
+}
+.duv1{
+    color: rgb(182, 182, 180);
+    font-size: 16px;
+
+}
+.duv3{
+    font-size: 17px;
+    color:rgba(36, 3, 36, 0.623)
+    
+}
+
+.duv2{
+    color: rgb(182, 182, 180);
+
+}
+
+/* div do carrosel*/
+
+.carossel-MMO{
+    font-size: 13px;
+    text-align: center;
+    color:whitesmoke
+    
+}
+.carousel-wrapper-text{
+    display: flex;
+    justify-content: center;
+}
+
+.box-MMO{
+    height: 300px;
+    width: 200px;
+    display:block;
+
+}
+
+.item{
+    padding-bottom: 20px;
+}
+
+.text-carousel-box{
+    justify-self: center;
+    width: 80%;
+    padding-bottom: 20px;
+}
+
+.inf{
+    color: gray;
+}
+
+.botão{
+    padding: 10px;
+    border: none;
+    border-radius: 100px;
+    background-color: rgba(247, 247, 247, 0.815);
+}
+.botão:hover{
+    color: white;
+    background-color: royalblue;
+    cursor: pointer;
+    transition: .3s ease;
+}
+
+.barr{
+    height: 10px;
+    width: 100px;
+
+}
+
+.container{
+    height: 50px;
+    width: 100px;
+    color: rgb(182, 182, 180);
+    font-size: 15px;
+    text-align: center;
+    
+
+}
+.menção{
+    font-size: 20px;
+    text-align: center;
+    align-content: center;
+    
+}
+
+.cont{
+    
+    text-align: right;
+    color: rgb(182, 182, 180);
+    margin-left: auto;
+    margin-right: auto;
+    width: 10px;
+}
+
+.Red{
+    color: rgb(130, 149, 207);;
+}
+
+.lista{
+    align-items: center;
+    color:rgb(130, 149, 207);
+    text-align: center;
+    
+}
